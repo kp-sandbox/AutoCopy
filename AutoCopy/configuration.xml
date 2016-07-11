@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autocopy>
+  <!--<copynode source="C:\Users\kp\Desktop\TEST\SOURCE\" 
+            destination="\\127.0.0.1\d$\Temp\DEST\" 
+            exclude="*.xml;*.tmp" />-->
+  <!--<copynode source="C:\Users\kp\Desktop\TEST\SOURCE\" destination="C:\Users\kp\Desktop\TEST\DESTINATION\" exclude="*.xml;*.tmp" />-->
+
+
+  <copynode source="E:\Projects\KP Projects\nodejs\"
+            destination="sftp://developer@192.168.137.138//home/developer/nodejs/"
+            exclude="*.xml;*.tmp"
+            sshAuthKey="E:\Projects\_KeyPair\vm.ubuntu.pem" />
+</autocopy>

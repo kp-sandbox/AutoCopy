@@ -1,0 +1,111 @@
+2016-07-08 18:00:35 - [Info] - Added watch path: E:\Projects\KP Projects\nodejs\ -> sftp://developer@192.168.137.138/nodejs/, exclude: *.xml;*.tmp
+2016-07-08 18:00:35 - [Info] - Application started successfully.
+2016-07-08 18:02:08 - [Info] - Added watch path: E:\Projects\KP Projects\nodejs\ -> sftp://developer@192.168.137.138/nodejs/, exclude: *.xml;*.tmp
+2016-07-08 18:02:08 - [Info] - Application started successfully.
+2016-07-08 18:02:23 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:02:24 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:02:24 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:02:25 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:03:06 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:03:06 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:03:07 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:03:08 - [Error] - Renci.SshNet.Common.SftpPathNotFoundException: No such file
+   at Renci.SshNet.Sftp.SftpSession.RequestOpenDir(String path, Boolean nullOnError)
+   at Renci.SshNet.Sftp.SftpSession.ChangeDirectory(String path)
+   at Renci.SshNet.SftpClient.ChangeDirectory(String path)
+   at AutoCopy.SftpFileOperator.CreateClient() in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 48
+   at AutoCopy.BaseFileOperator`1.AddTask(Func`2 func) in E:\Projects\KP Projects\AutoCopy\AutoCopy\BaseFileOperator.cs:line 59
+   at AutoCopy.SftpFileOperator.EnsureDirectory(String path) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 141
+   at AutoCopy.SftpFileOperator.CopyFile(String srcFileRelPath, String destFileRelPath) in E:\Projects\KP Projects\AutoCopy\AutoCopy\SftpFileOperator.cs:line 58
+   at AutoCopy.AutoCopyApp.<>c__DisplayClass10_0.<<InitWatcher>b__0>d.MoveNext() in E:\Projects\KP Projects\AutoCopy\AutoCopy\StartHere.cs:line 156
+2016-07-08 18:03:55 - [Info] - Added watch path: E:\Projects\KP Projects\nodejs\ -> sftp://developer@192.168.137.138//home/developer/nodejs/, exclude: *.xml;*.tmp
+2016-07-08 18:03:56 - [Info] - Application started successfully.
+2016-07-08 18:04:12 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:12 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:12 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\routes.js' -> '/home/developer/nodejs/routes.js'
+2016-07-08 18:04:12 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:13 - [Info] - Changed: routes.js
+2016-07-08 18:04:13 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\routes.js' -> '/home/developer/nodejs/routes.js'
+2016-07-08 18:04:13 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:13 - [Info] - Changed: routes.js
+2016-07-08 18:04:13 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\routes.js' -> '/home/developer/nodejs/routes.js'
+2016-07-08 18:04:13 - [Info] - Changed: routes.js
+2016-07-08 18:04:13 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\routes.js' -> '/home/developer/nodejs/routes.js'
+2016-07-08 18:04:13 - [Info] - Changed: routes.js
+2016-07-08 18:04:46 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:46 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:47 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\package.json' -> '/home/developer/nodejs/package.json'
+2016-07-08 18:04:47 - [Info] - Directory ensured '/home/developer/nodejs'
+2016-07-08 18:04:47 - [Info] - Changed: package.json
+2016-07-08 18:04:47 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\index.js' -> '/home/developer/nodejs/index.js'
+2016-07-08 18:04:47 - [Info] - Changed: index.js
+2016-07-08 18:04:47 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\routes.js' -> '/home/developer/nodejs/routes.js'
+2016-07-08 18:04:47 - [Info] - Changed: routes.js
+2016-07-08 18:05:18 - [Info] - Directory ensured '/home/developer/nodejs/controllers'
+2016-07-08 18:05:18 - [Info] - Directory ensured '/home/developer/nodejs/controllers'
+2016-07-08 18:05:19 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\controllers\account.js' -> '/home/developer/nodejs/controllers/account.js'
+2016-07-08 18:05:19 - [Info] - Changed: controllers\account.js
+2016-07-08 18:05:19 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\controllers\account.js' -> '/home/developer/nodejs/controllers/account.js'
+2016-07-08 18:05:19 - [Info] - Changed: controllers\account.js
+2016-07-08 18:05:27 - [Info] - Directory ensured '/home/developer/nodejs/controllers'
+2016-07-08 18:05:27 - [Info] - Directory ensured '/home/developer/nodejs/controllers'
+2016-07-08 18:05:27 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\controllers\dummy.js' -> '/home/developer/nodejs/controllers/dummy.js'
+2016-07-08 18:05:27 - [Info] - Changed: controllers\dummy.js
+2016-07-08 18:05:27 - [Info] - Copied file 'E:\Projects\KP Projects\nodejs\controllers\dummy.js' -> '/home/developer/nodejs/controllers/dummy.js'
+2016-07-08 18:05:28 - [Info] - Changed: controllers\dummy.js

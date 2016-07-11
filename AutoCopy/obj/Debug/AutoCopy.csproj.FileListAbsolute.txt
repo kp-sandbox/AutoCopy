@@ -1,0 +1,12 @@
+E:\Projects\KP Projects\AutoCopy\AutoCopy\bin\Debug\AutoCopy.exe.config
+E:\Projects\KP Projects\AutoCopy\AutoCopy\bin\Debug\AutoCopy.exe
+E:\Projects\KP Projects\AutoCopy\AutoCopy\bin\Debug\AutoCopy.pdb
+E:\Projects\KP Projects\AutoCopy\AutoCopy\obj\Debug\AutoCopy.csprojResolveAssemblyReference.cache
+E:\Projects\KP Projects\AutoCopy\AutoCopy\obj\Debug\AutoCopy.Properties.Resources.resources
+E:\Projects\KP Projects\AutoCopy\AutoCopy\obj\Debug\AutoCopy.csproj.GenerateResource.Cache
+E:\Projects\KP Projects\AutoCopy\AutoCopy\obj\Debug\AutoCopy.exe
+E:\Projects\KP Projects\AutoCopy\AutoCopy\obj\Debug\AutoCopy.pdb
+E:\Projects\KP Projects\AutoCopy\AutoCopy\bin\Debug\configuration.xml
+E:\Projects\KP Projects\AutoCopy\AutoCopy\obj\Debug\AutoCopy.AutoCopyResx.resources
+E:\Projects\KP Projects\AutoCopy\AutoCopy\bin\Debug\Renci.SshNet.dll
+E:\Projects\KP Projects\AutoCopy\AutoCopy\bin\Debug\Renci.SshNet.xml
